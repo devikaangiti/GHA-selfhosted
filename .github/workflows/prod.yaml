@@ -9,4 +9,4 @@ jobs:
     runs-on: self-hosted
     steps:
       - name: msg
-        run: echo "welcome github"
+        run: echo "welcome githubaction with self-hosted server"
